@@ -1,0 +1,21 @@
+# Custom ignored folder
+ignored/
+data/
+scripts/
+
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+get-pip.py/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
